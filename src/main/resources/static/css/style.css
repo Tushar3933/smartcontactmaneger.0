@@ -1,0 +1,30 @@
+body{
+	background-color: white;
+	text-align: left;
+	background:linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.3))
+	
+}
+
+.bg-primary{
+	background:#009688 !important ;
+	text-align: left;
+	
+}
+.banner{
+	width: 100%;
+	height: 93vh;
+	background:linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.7)) ,url(../img/banner.jpg);
+	background-size: cover;
+	color: white;
+	padding-top: 250px;
+}
+.navbar-brand{
+	text-align: right;
+}
+.my-card{
+	
+	padding:20px ;
+	background:#FFFFFF;
+
+	
+}
